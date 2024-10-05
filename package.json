@@ -1,6 +1,6 @@
 {
   "name": "@hengkx/react-native-oss",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "description": "React Native SDK for aliyun object storage service",
   "main": "index.js",
   "scripts": {
